@@ -195,6 +195,48 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - text: >
+      Amazon Basics Mattress Pad Cover Cooling Mattress Topper
+
+
+      The Amazon Basics Memory Foam Mattress Pad responds to the pressure created by your body. It forms to your body's contours, distributing body weight evenly, offering more body and spine support. This results in a better night's sleep. Regular mattresses are not designed well enough to offer this kind of support.
+
+
+      Many people suffer from chronic back pain, a condition that can be made worse at night. The Memory Foam Mattress Pad claims to support your back and to help alleviate pain. The Amazon Basics technological design makes for a mattress that always feels cool.
+
+
+      Product Features
+
+
+      80% Polyester/ 20% Cotton
+
+      Imported
+
+      Lightweight quilted mattress pad with hypoallergenic fill—ideal for allergy sufferers
+
+      Knitted fabric sides stretch to ensure the perfect fit; fits queen size mattresses up to 18 inches deep
+
+      The poly-cotton fabric on both sides ensures breathability and easy care
+
+      Machine wash and dry (safe for high temperatures)
+
+      Made in OEKO-TEX Standard 100 factory, an independent certification system that ensures textiles meet high safety and environmental standards.
+
+
+      Product  Reviews
+
+
+      Reviews for the Amazon Basics Memory Foam Mattress Pad have so far been very positive. Several of the most positive comments have come from people who have undergone spinal surgery. These reviewers reported a difference in their sleep patterns right away, thank this mattress pad. It takes some time to set up and put into place, but this was not a problem for these people, even considering the surgery. People with sciatica and hip problems also expressed that this mattress pad provides relief, causing them actually to look forward to sleeping at night.
+
+
+      According to these reviews, people who were not able to sleep through the night no longer have that problem. Amazon Basics technology also received rave reviews. Several people stated that they are able to stay cooler in bed a night on this mattress pad.
+
+
+      Some of the worst reviews have the same complaint. They state that this mattress does not keep them cool at night; it actually makes them hotter. This is a very common theme that runs through to some of the positive comments as well. At least one reviewer chose to remove the memory foam, which resulted in a cooler night's sleep.
+
+
+      Setting this pas up can be a bit confusing. It needs to be aired to remove the chemical smell that is sealed into it when packaged for shipment. Once out of the package, do not try to stretch it out to fit it into the bed. Lay it out on the bed and leave it for a few hours. It will gradually stretch itself out on its own. This is a highly recommended mattress pad. There is some question as to the cooling technology's effectiveness, but the memory foam padding is fantastic. This pad might fall short on its claim of keeping you cool at night, but it definitely provides the pain relief that it promises.
+    image: https://images-na.ssl-images-amazon.com/images/I/61aRz7gkobL._AC_SL1352_.jpg
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
